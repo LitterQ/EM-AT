@@ -4,7 +4,9 @@
 
 
 
-Example (CIFAR-10):
+##Example (CIFAR-10):
+
+### Training a model
 
 ```bash
 sh fs_train.sh
