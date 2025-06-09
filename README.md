@@ -4,7 +4,7 @@
 
 
 
-##Example (CIFAR-10):
+## Example (CIFAR-10):
 
 ### Training a model
 
